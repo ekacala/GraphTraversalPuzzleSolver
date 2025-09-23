@@ -9,6 +9,7 @@ To use Puzzle.py, call the function solve_puzzle() with a 2D array for the board
 
 ### 2D array example
 The array should consist of '-' representing a passable space, and '#' representing an impassable space.
+<br><br>
 `array_example_1 = [
     ['-', '-', '-', '-', '-'],
     ['-', '-', '#', '-', '-'],
