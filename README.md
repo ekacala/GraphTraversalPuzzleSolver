@@ -25,3 +25,5 @@ The array should consist of '-' representing a passable space, and '#' represent
 
 ### Calling solve_puzzle()
 `solve_puzzle(array_example_1, (0, 2), (2, 2))`
+## How to Use Board.py
+Run Board.py within Pycharm (or any development environment that can use Python). A new screen will pop up containing a board and two boxes to input a starting space and an ending space. Simply pick two spaces from the board, type them into the input boxes, and click GO. The shortest path between the two points will be printed on the screen.
