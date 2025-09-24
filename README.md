@@ -3,6 +3,8 @@ The main program, Puzzle.py, includes a function that can find the shortest path
 
 Board.py is a small game made with pygame that visualizes Puzzle.py. 
 
+Converter.py converts the letter/number coordinates (A1, B2, etc.) into the equivalent (x, y) coordinates used by Puzzle.py, and vice versa.
+
 ## How to Use Puzzle.py
 To use Puzzle.py, call the function solve_puzzle() with a 2D array for the board, a touple representing the (x, y) starting coordinates, and a touple representing the (x, y) ending coordinates. The coordinates are zero-indexed to match the 2D array. 
 
