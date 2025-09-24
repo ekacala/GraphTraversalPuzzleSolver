@@ -189,7 +189,7 @@ screen.blit(end_instruct, textRect)
 start_input_rect = pygame.Rect(270, 350, 100, 24)
 end_input_rect = pygame.Rect(550, 350, 100, 24)
 color_passive = pygame.Color((211, 211, 211))
-color_active = pygame.Color((136, 231, 136))
+color_active = pygame.Color((250, 167, 235))
 
 # Create GO button
 go_rect = pygame.Rect(250, 400, 100, 24)
